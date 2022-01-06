@@ -8,20 +8,70 @@ h1{
     font-weight: 800;
 }
 .line{
-    border-left: 4px solid red;
+    border-left: 4px solid rgb(55, 57, 177);
     display: block;
     padding-left: 7px;
  }
 .color{
-color: rgb(226, 151, 53);
+    color: rgb(226, 151, 53);
 }
 section{
-display: flex;
+    display: flex;
+    margin-bottom: 200px;
 }
 .width{
-width: 50%;
-padding-left: 6%;
+    width: 50%;
+    padding-left: 6%;
 }
 .width img{
     width: 70%;
+}
+.button1{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 14px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.big-heading{
+    text-align: center;
+}
+.twenty{
+    color: orange;
+}
+.photo{
+    padding-left: 150px;
+}
+.footer{
+    background-color: rgb(22, 20, 20);
+    text-align: center; 
+}
+.color3{
+    color: rgb(228, 211, 186);
+    padding: 20px;
+}
+.mission-area{
+    display: flex;
+    width:100%;
+}
+.mission-area img{
+    width: 40%;
+}
+.mission{
+    background-color: rgb(168, 216, 216);
+    padding: 40px;
+    margin: 30px;
+    border-radius: 50px;
+}
+.vision{
+    background-color: rgb(211, 221, 174);
+    padding: 40px;
+    margin: 30px;
+    border-radius: 50px;
+}
+.goal{
+    background-color: rgb(165, 202, 122);
+    padding: 40px;
+    margin: 30px;
+    border-radius: 50px;
 }
